@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.20)  13 DEC 2021 10:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.20)  16 DEC 2021 14:33
 entering extended mode
 **"c:/Users/Kashod Cagnolatti/Desktop/Projects/Cagnolatti-Resume-Current/src/resume.tex"
 (c:/Users/Kashod Cagnolatti/Desktop/Projects/Cagnolatti-Resume-Current/src/resume.tex
@@ -141,16 +141,16 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 36--36
 [] 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 43.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 49.
 (C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 55.
+(Font)              <10.95> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 55.
+(Font)              <8> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 55.
+(Font)              <6> on input line 61.
  [1
 
 {C:/Users/Kashod Cagnolatti/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (resume.aux) ) 
@@ -163,7 +163,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  72i,9n,80p,654b,199s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/Kashod Cagnolatti/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Users/Kashod Cagnolatti/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<C:/Users/Kashod Cagnolatti/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/Kashod Cagnolatti/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Kashod Cagnolatti/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Kashod Cagnolatti/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Kashod Cagnolatti/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on resume.pdf (1 page, 75906 bytes).
+Output written on resume.pdf (1 page, 72424 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

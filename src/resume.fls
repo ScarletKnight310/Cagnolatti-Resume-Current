@@ -236,8 +236,6 @@ INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\tex\latex\fontawe
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\ufontawesometwo.fd
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\ufontawesometwo.fd
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome\FontAwesome--fontawesometwo.tfm
-INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
-INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
@@ -253,14 +251,14 @@ INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\public\
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
 OUTPUT resume.pdf
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmbi7t.vf
-INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
@@ -268,6 +266,8 @@ INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\ti
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmbi7t.vf
+INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
 INPUT resume.aux
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome\fontawesometwo.enc
