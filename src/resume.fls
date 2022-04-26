@@ -1,6 +1,6 @@
-PWD c:\Users\Kashod Cagnolatti\Desktop\Projects\Cagnolatti-Resume-Current\src
+PWD c:\Users\Kashod Cagnolatti\Desktop\Projects\_misc\Cagnolatti-Resume-Current\src
 INPUT C:\Users\Kashod Cagnolatti\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Kashod Cagnolatti\Desktop\Projects\Cagnolatti-Resume-Current\src\resume.tex
+INPUT c:\Users\Kashod Cagnolatti\Desktop\Projects\_misc\Cagnolatti-Resume-Current\src\resume.tex
 OUTPUT resume.log
 INPUT .\resume.cls
 INPUT .\resume.cls
