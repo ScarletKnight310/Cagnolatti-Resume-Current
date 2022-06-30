@@ -1,2 +1,2 @@
 # Cagnolatti-Resume-Current
- Resume LaTeX project
+Just holds my updated resume
